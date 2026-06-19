@@ -8,19 +8,62 @@
 - Dress shirts: 41 collar
 - Delivery: Tallinn, Estonia — EU stores only
 
-## Premium brands (jeans, shoes, belts)
-Tommy Hilfiger, Hugo Boss, Calvin Klein, GANT
+## Brands by category
 
-## Everyday quality brands (knitwear, shirts, polos, jackets)
-Massimo Dutti, Arket, Selected Homme, Mango Man, Zara Man, Suitsupply
+### Jeans
+Boss, Tommy Hilfiger, GANT, Pepe Jeans
+→ Slim fit only, 31/31 preferred, 31/32 max
 
-## Deal rules — only alert if genuinely exceptional
-- Jeans (premium brand, slim, 31/31–31/32): under €80, min 30% off
-- Shoes EU 43 (leather sneaker or dress): under €120, min 25% off
-- Heritage runners (New Balance 997/998/1500, Reebok Classic): under €90
-- Knitwear / knit polo: under €60
-- Chinos / trousers (slim, navy/grey/stone): under €70, min 25% off
-- Blazer / overshirt: under €100, min 30% off
+### Sneakers
+GANT, New Balance, Adidas, Asics, Reebok
+→ EU 43 only
+→ Heritage/retro silhouettes preferred (NB 997/998/1500, Reebok Classic, Adidas Stan Smith/Samba)
+
+### Formal shoes
+Boss, Tommy Hilfiger, GANT
+→ EU 43, brown/cognac leather preferred
+→ Cap-toe oxfords, brogues, or brown leather sneaker with white sole
+
+### Hoodies
+GANT, New Balance, Adidas, Asics, Reebok, Tommy Hilfiger, Pepe Jeans, Lacoste, Ralph Lauren, US Polo Assn, Prada
+→ Size M only
+
+### Polos
+GANT, New Balance, Adidas, Asics, Reebok, Tommy Hilfiger, Pepe Jeans, Lacoste, Ralph Lauren, US Polo Assn
+→ Size M only
+
+### Shirts / casual tops
+GANT, New Balance, Adidas, Tommy Hilfiger, Pepe Jeans, Lacoste, Ralph Lauren, US Polo Assn
+→ Size M only
+
+### Formal dress shirts, cardigans, knitwear
+No specific brand required — quality over label
+Good options: Massimo Dutti, Arket, Selected Homme, Mango Man, Zara Man
+→ Size M / collar 41
+→ Merino wool, cashmere blend, fine knit preferred
+
+## Deal rules — ONLY flag if ALL 3 conditions met
+1. Correct size available (M / EU 43 / 31/31–31/32)
+2. Price hits threshold below
+3. Ships to Tallinn, Estonia
+
+### Price thresholds
+| Category | Max price | Min discount |
+|---|---|---|
+| Jeans (premium brand) | €80 | 30% off |
+| Sneakers | €90 | 25% off |
+| Formal shoes | €120 | 25% off |
+| Hoodies | €60 | 40% off |
+| Polos | €30 | 50% off |
+| Shirts / casual tops | €20 | 60% off |
+| Knitwear / cardigans | €60 | 20% off |
+| Chinos / trousers | €70 | 25% off |
+| Blazer / overshirt | €100 | 30% off |
+
+## Preferred stores (deliver to Tallinn)
+Booztlet, Zalando.ee, Boozt, ASOS, About You,
+Zara, Mango, GANT.com, HugoBoss.com, Tommy.com,
+Lacoste.com, RalphLauren.com
 
 ## Style DNA (from Pinterest boards — 53 images analysed)
 - "Quiet luxury with sneaker energy" — Southern European smart-casual
@@ -34,9 +77,9 @@ Massimo Dutti, Arket, Selected Homme, Mango Man, Zara Man, Suitsupply
 - Zero loud logos. Subtle branding only.
 
 ## Shoe strategy (3 lanes)
-1. Brown leather brogue / cap-toe oxford — for suits and smart days
+1. Brown leather brogue / cap-toe oxford — suits and smart days
 2. Brown leather sneaker with white sole — smart-casual bridge
-3. Heritage runner (NB 997/998/1500, Reebok Classic Nylon) — leisure
+3. Heritage runner (NB 997/998/1500, Reebok Classic, Adidas Samba) — leisure
 
 ## Office style
 Slim navy or charcoal blazer/suit + knit polo or sweater underneath + white sneakers or brown leather
@@ -48,3 +91,9 @@ Knit polo (open collar, short or long sleeve) + stone/beige slim chinos + white 
 Quarter-zip camel/beige knit + dark jeans + white tee underneath
 Camel bomber + mid-wash jeans + white tee + white sneakers
 Heritage runner as the statement piece with clean neutral outfit
+
+## Already own (don't suggest these)
+[add items here as you buy them]
+
+## Actively hunting
+[add priority items here]
